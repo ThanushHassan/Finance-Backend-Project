@@ -11,14 +11,14 @@ This repository contains a robust Flask-based backend system designed for a fina
 
 # Set up the virtual environment:
 
-Bash
+# Bash
 python -m venv venv
 .\venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
 
 # Run the application:
 
-Bash
+# Bash
 python app.py
 
 .
